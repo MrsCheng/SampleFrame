@@ -10,5 +10,4 @@ public class MainActivity extends BaseBarActivity {
         setContentView(R.layout.activity_main);
         setBarTitle("哈哈哈哈哈");
     }
-
 }
